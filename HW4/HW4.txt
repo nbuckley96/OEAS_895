@@ -1,0 +1,5 @@
+HW4.txt
+2023-03-07, nbuckley96
+
+This homework set covers building and applying the multi-layer perception neural network classifier to the 'wine' dataset from sci-kit learn.
+Parts 1-3 are in the covered in the jupyter notebook 'Buckley_HW4 - all 3 parts'.  
